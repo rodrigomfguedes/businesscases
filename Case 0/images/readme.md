@@ -1,15 +1,6 @@
 ## Case 0 Images
  
-
-Tasks done:
--
--
-
-
-To do task list:
--
--
-
+ 
 
 Contributors:
 
