@@ -1,9 +1,5 @@
-# Business Cases Projects
+## Case 0 Images
  
-
-Current Case: 0
-
-
 
 Tasks done:
 -
@@ -13,6 +9,7 @@ Tasks done:
 To do task list:
 -
 -
+
 
 Contributors:
 

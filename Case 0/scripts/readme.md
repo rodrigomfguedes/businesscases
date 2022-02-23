@@ -1,18 +1,17 @@
-# Business Cases Projects
+## Case 0 scripts
  
 
-Current Case: 0
+# master
+
+	Tasks done:
+	-
+	-
 
 
+	To do task list:
+	-
+	-
 
-Tasks done:
--
--
-
-
-To do task list:
--
--
 
 Contributors:
 
