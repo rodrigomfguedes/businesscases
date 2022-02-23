@@ -1,7 +1,7 @@
 ## Case 0 scripts
  
 
-# master
+# Master
 
 	Tasks done:
 	-
