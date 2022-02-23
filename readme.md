@@ -1,18 +1,12 @@
 # Business Cases Projects
  
+## Current Case: 
 
-Current Case: 0
-
-
-
-Tasks done:
+Cases Concluded:
 -
 -
 
 
-To do task list:
--
--
 
 Contributors:
 
