@@ -1,18 +1,9 @@
-# Business Cases Projects
+# Case 0 Analysis
  
-
-Current Case: 0
-
-
-
-Tasks done:
+Reported Outcomes:
 -
 -
 
-
-To do task list:
--
--
 
 Contributors:
 
