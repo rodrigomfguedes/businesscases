@@ -1,18 +1,6 @@
-# Business Cases Projects
- 
-
-Current Case: 0
+## Case 0 Library
 
 
-
-Tasks done:
--
--
-
-
-To do task list:
--
--
 
 Contributors:
 
