@@ -11,7 +11,9 @@ To do task list:
 -
 
 Contributors:
-gkerjgerkgjerkjg
+
+rutreiugreiug
+
 - Rodrigo Guedes
 - Beatriz Selidónio Gomes
 - Catarina Garcez
